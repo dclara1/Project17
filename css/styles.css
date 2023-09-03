@@ -127,7 +127,7 @@ justify-content: space-evenly;
 
 .card-img-top {
   height: 20rem;
-  width: 15rem;
+  min-width: 15rem;
 }
 
 
